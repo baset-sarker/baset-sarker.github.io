@@ -7,10 +7,10 @@ var data = {
             'journal_or_conf': 'Interdisciplinary Conference on Mechanics, Computers and Electronics (ICMECE) 2022',
             'rest_part': 'Albany, NY, USA, 2022, pp. 1-4, doi: 10.1109/MDTS54894.2022.9826969.',
             'doi': '10.1234/5678',
-            'googl_scholar': 'https://scholar.google.com/scholar?q=10.1234/5678',
-            'paper_link': '',
-            'source_code': '',
-            'type': 'journal'
+            'googl_scholar': 'https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1PhvGNEAAAAJ&citation_for_view=1PhvGNEAAAAJ:YsMSGLbcyi4C',
+            'paper_link': 'https://www.researchgate.net/profile/Md-Abdul-Baset-Sarker/publication/363281218_Vision_Controlled_Sensorized_Prosthetic_Hand/links/636a913d2f4bca7fd040da45/Vision-Controlled-Sensorized-Prosthetic-Hand.pdf',
+            'source_code': 'https://github.com/baset-sarker/vision_enabled_prosthetic_hand',
+            'type': 'conference'
         },
 
 
@@ -25,7 +25,54 @@ var data = {
             'source_code': '',
             'type': 'conference'
         },
-      
+
+        {
+            'authors': 'M.A.B, Sarker;E.,Sola-Thomas; C., Jamieson; M.H., Imtiaz, ',
+            'title': 'Autonomous Movement of Wheelchair by Cameras and YOLOv7,',
+            'journal_or_conf': 'Interdisciplinary Conference on Mechanics, Computers and Electronics (ICMECE) 2022',
+            'rest_part': 'Eng. Proc. 2023, 31, 60. https://doi.org/10.3390/ASEC2022-13834 ',
+            'doi': 'https://doi.org/10.3390/ASEC2022-13834',
+            'googl_scholar': 'https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1PhvGNEAAAAJ&citation_for_view=1PhvGNEAAAAJ:eQOLeE2rZwMC',
+            'paper_link': 'https://www.mdpi.com/2673-4591/31/1/60',
+            'source_code': '',
+            'type': 'journal'
+        },
+
+        {
+            'authors': 'M.A.B Sarker, E. Sola-Thomas, C. Jamieson, M.H. Imtiaz, ',
+            'title': 'Autonomous Movement of Wheelchair by Cameras and YOLOv7,',
+            'journal_or_conf': 'Interdisciplinary Conference on Mechanics, Computers and Electronics (ICMECE) 2022',
+            'rest_part': 'Eng. Proc. 2023, 31, 60. https://doi.org/10.3390/ASEC2022-13834 ',
+            'doi': 'https://doi.org/10.3390/ASEC2022-13834',
+            'googl_scholar': 'https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1PhvGNEAAAAJ&citation_for_view=1PhvGNEAAAAJ:eQOLeE2rZwMC',
+            'paper_link': 'https://www.mdpi.com/2673-4591/31/1/60',
+            'source_code': '',
+            'type': 'journal'
+        },
+
+        {
+            'authors': 'E. Sola-Thomas, M. A. Baser Sarker, M. V. Caracciolo, O. Casciotti, C. D. Lloyd and M. H. Imtiaz, ',
+            'title': 'Design of an Initial Prototype of the AI Wheelchair, ',
+            'journal_or_conf': 'Proceedings of the 2021 IEEE Microelectronics Design & Test Symposium (MDTS), ',
+            'rest_part': 'Albany, NY, USA, 2021, pp. 1-7, doi: 10.1109/MDTS52103.2021.9476093. ',
+            'doi': 'https://doi: 10.1109/MDTS52103.2021.9476093. ',
+            'googl_scholar': 'https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1PhvGNEAAAAJ&citation_for_view=1PhvGNEAAAAJ:u5HHmVD_uO8C',
+            'paper_link': 'https://ieeexplore.ieee.org/abstract/document/9476093',
+            'source_code': '',
+            'type': 'conference'
+        },
+
+        {
+            'authors': 'M.A.B. Sarker,S.M.S Hossain, N.G. Venkataswamy, S. Schuckers, and M. H. Imtiaz, ',
+            'title': 'An Open-Source Face-Aware Capture System, ',
+            'journal_or_conf': 'Proceedings of the 2021 IEEE Microelectronics Design & Test Symposium (MDTS), ',
+            'rest_part': 'Electronics 2024, 13, 1178. https://doi.org/10.3390/electronics13071178 ',
+            'doi': 'https://doi.org/10.3390/electronics13071178 ',
+            'googl_scholar': 'https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1PhvGNEAAAAJ&citation_for_view=1PhvGNEAAAAJ:LkGwnXOMwfcC',
+            'paper_link': 'https://www.mdpi.com/2079-9292/13/7/1178',
+            'source_code': 'https://github.com/baset-sarker/face-aware-capture',
+            'type': 'journal'
+        },
 
     ],
     "conferences": [
