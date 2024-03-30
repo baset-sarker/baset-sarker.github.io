@@ -151,21 +151,21 @@ var data = {
     ],
 
     "news": [
-        // {
-        //     'year': '2024',
-        //     'events':[
-        //         {
-        //             'month': 'March 23',
-        //             'title': 'year3 2323',
+        {
+            'year': '2024',
+            'events':[
+                {
+                    'month': 'February 2024',
+                    'title': 'Instructed: “Clarkson University Project Challenge 2024 Program Course” Exploring the Aquatic Ecosystems through the Underwater Camera. (February 13-February 17)',
                     
-        //         },
-        //         {
-        //             'month': 'March 23',
-        //             'title': 'First 2323',  
-        //         }
+                },
+                {
+                    'month': 'January 2024',
+                    'title': 'Presented at Graduate Saminar on "Micrplastic detection using AI-enabled underwater camera" at the Department of Electrical and Computer Engineering, Clarkson University, USA. (January 23)',  
+                }
             
-        //     ]
-        // },
+            ]
+        },
         // {
         //     'year': '2023',
         //     'events':[
