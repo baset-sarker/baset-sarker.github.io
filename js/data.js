@@ -234,7 +234,7 @@ var data = {
             'year': '2022',
             'events':[
                 {
-                    'title': 'Technology showcase 2.5k, "VISION CONTROLLED PROSTHETIC HAND", Awarded by Clarkson University, USA.',
+                    'title': 'Technology showcase, "VISION CONTROLLED PROSTHETIC HAND", Awarded by Clarkson University, USA.',
                     
                 },
                 {
