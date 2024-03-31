@@ -96,7 +96,7 @@ var data = {
 
         {
             'authors': 'G Stoyell, A Seybolt, T Griebel, S Sood, MAB Sarker, A Khondker, MH Imtiaz ',
-            'title': 'An Open-Source Face-Aware Capture System, ',
+            'title': 'Implementation of a Mind-Controlled Wheelchair',
             'journal_or_conf': 'Proceedings of the St. Lawrence Section Annual Conference, ',
             'rest_part': '25-26, Syracuse, NY, USA',
             'doi': 'https://doi.org/10.3390/electronics13071178 ',
