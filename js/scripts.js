@@ -7,3 +7,27 @@
 // Use this file to add JavaScript to your project
 
 
+function formatDate(dateString) {
+    const date = new Date(dateString);
+    const options = { month: 'long', day: 'numeric', year: 'numeric' };
+    return date.toLocaleDateString('en-US', options);
+}
+
+function getCurrentFileName() {
+    const path = window.location.pathname;
+    const fileName = path.substring(path.lastIndexOf('/') + 1);
+    return fileName;
+}
+
+
+function last_updated(){
+    current_file_name = getCurrentFileName();
+    console.log("Current file name: ", current_file_name);
+    const lastUpdatedElement = document.getElementById('lastUpdated');
+    converted_date = formatDate(data[current_file_name]);
+    if (lastUpdatedElement) {
+        lastUpdatedElement.textContent = `Last updated: ${converted_date}`;
+    }
+}
+
+last_updated();

@@ -1,4 +1,10 @@
 var data = {
+    // last updated date
+    'publication.html': '2024-03-31',
+    'news.html': '2024-03-31',
+    'awards.html': '2024-03-31',
+    'index.html': '2024-03-31',
+    'resume.html': '2024-03-31',
 
     "journals": [
         {
