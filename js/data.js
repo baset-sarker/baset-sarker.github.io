@@ -59,8 +59,8 @@ var data = {
         {
             'authors': 'M.A.B. Sarker,S.M.S Hossain, N.G. Venkataswamy, S. Schuckers, and M. H. Imtiaz, ',
             'title': 'An Open-Source Face-Aware Capture System, ',
-            'journal_or_conf': 'Proceedings of the 2021 IEEE Microelectronics Design & Test Symposium (MDTS), ',
-            'rest_part': 'Electronics 2024, 13, 1178. https://doi.org/10.3390/electronics13071178 ',
+            'journal_or_conf': 'Electronics 2024',
+            'rest_part': '13, 1178. https://doi.org/10.3390/electronics13071178 ',
             'doi': 'https://doi.org/10.3390/electronics13071178 ',
             'googl_scholar': 'https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1PhvGNEAAAAJ&citation_for_view=1PhvGNEAAAAJ:LkGwnXOMwfcC',
             'paper_link': 'https://www.mdpi.com/2079-9292/13/7/1178',
@@ -160,6 +160,10 @@ var data = {
         {
             'year': '2024',
             'events':[
+                {
+                    'month': 'March 2024',
+                    'title': '<b>"Journal Paper Accepted"</b>, (22 March 2024) M.A.B. Sarker,S.M.S Hossain, N.G. Venkataswamy, S. Schuckers, and M. H. Imtiaz, An Open-Source Face-Aware Capture System, Electronics 2024 @MDPI',  
+                },
                 {
                     'month': 'February 2024',
                     'title': 'Instructed: “Clarkson University Project Challenge 2024 Program Course” Exploring the Aquatic Ecosystems through the Underwater Camera. (February 13-February 17)',
