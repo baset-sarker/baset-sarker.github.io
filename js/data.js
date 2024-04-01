@@ -162,7 +162,7 @@ var data = {
             'events':[
                 {
                     'month': 'March 2024',
-                    'title': '<b>"Journal Paper Accepted"</b>, (22 March 2024) M.A.B. Sarker,S.M.S Hossain, N.G. Venkataswamy, S. Schuckers, and M. H. Imtiaz, An Open-Source Face-Aware Capture System, Electronics 2024 @MDPI',  
+                    'title': '<b>"Journal Paper Accepted"</b>, (22 March 2024) M.A.B. Sarker,S.M.S Hossain, N.G. Venkataswamy, S. Schuckers, and M. H. Imtiaz, An Open-Source Face-Aware Capture System, Electronics 2024, MDPI',  
                 },
                 {
                     'month': 'February 2024',
