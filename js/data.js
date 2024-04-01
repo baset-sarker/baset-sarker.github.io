@@ -8,8 +8,8 @@ var data = {
 
     "journals": [
         {
-            'authors': 'M. A. Baset Sarker, Juan Pablo Sola, Aaron Jones, Evan Laing, Ernesto S Sola, and Masudul H. Imtiaz,',
-            'title': 'Vision Controlled Sensorized Prosthetic Hand,',
+            'authors': 'M. A. Baset Sarker, Juan Pablo Sola, Aaron Jones, Evan Laing, Ernesto S Sola, and Masudul H. Imtiaz',
+            'title': 'Vision Controlled Sensorized Prosthetic Hand',
             'journal_or_conf': 'Interdisciplinary Conference on Mechanics, Computers and Electronics (ICMECE) 2022',
             'rest_part': 'Albany, NY, USA, 2022, pp. 1-4, doi: 10.1109/MDTS54894.2022.9826969.',
             'doi': '10.1234/5678',
@@ -21,8 +21,8 @@ var data = {
 
       
         {
-            'authors': 'M.A.B, Sarker;E.,Sola-Thomas; C., Jamieson; M.H., Imtiaz, ',
-            'title': 'Autonomous Movement of Wheelchair by Cameras and YOLOv7,',
+            'authors': 'M.A.B, Sarker;E.,Sola-Thomas; C., Jamieson; M.H., Imtiaz',
+            'title': 'Autonomous Movement of Wheelchair by Cameras and YOLOv7',
             'journal_or_conf': 'Interdisciplinary Conference on Mechanics, Computers and Electronics (ICMECE) 2022',
             'rest_part': 'Eng. Proc. 2023, 31, 60. https://doi.org/10.3390/ASEC2022-13834.',
             'doi': 'https://doi.org/10.3390/ASEC2022-13834',
@@ -33,10 +33,10 @@ var data = {
         },
 
         {
-            'authors': 'M.A.B Sarker, E. Sola-Thomas, C. Jamieson, M.H. Imtiaz, ',
-            'title': 'Autonomous Movement of Wheelchair by Cameras and YOLOv7,',
+            'authors': 'M.A.B Sarker, E. Sola-Thomas, C. Jamieson, M.H. Imtiaz',
+            'title': 'Autonomous Movement of Wheelchair by Cameras and YOLOv7',
             'journal_or_conf': 'Interdisciplinary Conference on Mechanics, Computers and Electronics (ICMECE) 2022',
-            'rest_part': 'Eng. Proc. 2023, 31, 60. https://doi.org/10.3390/ASEC2022-13834 ',
+            'rest_part': 'Eng. Proc. 2023, 31, 60. https://doi.org/10.3390/ASEC2022-13834',
             'doi': 'https://doi.org/10.3390/ASEC2022-13834',
             'googl_scholar': 'https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1PhvGNEAAAAJ&citation_for_view=1PhvGNEAAAAJ:eQOLeE2rZwMC',
             'paper_link': 'https://www.mdpi.com/2673-4591/31/1/60',
@@ -45,9 +45,9 @@ var data = {
         },
 
         {
-            'authors': 'E. Sola-Thomas, M. A. Baser Sarker, M. V. Caracciolo, O. Casciotti, C. D. Lloyd and M. H. Imtiaz, ',
-            'title': 'Design of an Initial Prototype of the AI Wheelchair, ',
-            'journal_or_conf': 'Proceedings of the 2021 IEEE Microelectronics Design & Test Symposium (MDTS), ',
+            'authors': 'E. Sola-Thomas, M. A. Baser Sarker, M. V. Caracciolo, O. Casciotti, C. D. Lloyd and M. H. Imtiaz',
+            'title': 'Design of an Initial Prototype of the AI Wheelchair',
+            'journal_or_conf': 'Proceedings of the 2021 IEEE Microelectronics Design & Test Symposium (MDTS)',
             'rest_part': 'Albany, NY, USA, 2021, pp. 1-7, doi: 10.1109/MDTS52103.2021.9476093. ',
             'doi': 'https://doi: 10.1109/MDTS52103.2021.9476093. ',
             'googl_scholar': 'https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1PhvGNEAAAAJ&citation_for_view=1PhvGNEAAAAJ:u5HHmVD_uO8C',
@@ -57,8 +57,8 @@ var data = {
         },
 
         {
-            'authors': 'M.A.B. Sarker,S.M.S Hossain, N.G. Venkataswamy, S. Schuckers, and M. H. Imtiaz, ',
-            'title': 'An Open-Source Face-Aware Capture System, ',
+            'authors': 'M.A.B. Sarker,S.M.S Hossain, N.G. Venkataswamy, S. Schuckers, and M. H. Imtiaz',
+            'title': 'An Open-Source Face-Aware Capture System',
             'journal_or_conf': 'Electronics 2024',
             'rest_part': '13, 1178. https://doi.org/10.3390/electronics13071178 ',
             'doi': 'https://doi.org/10.3390/electronics13071178 ',
@@ -69,9 +69,9 @@ var data = {
         },
 
         {
-            'authors': 'E. Sola-Thomas, M. A. Baset Sarker and M. Imtiaz, ',
-            'title': 'FPGA-Controlled AI Vision for Prosthetics hand,',
-            'journal_or_conf': '2023 IEEE World AI IoT Congress (AIIoT), ',
+            'authors': 'E. Sola-Thomas, M. A. Baset Sarker and M. Imtiaz',
+            'title': 'FPGA-Controlled AI Vision for Prosthetics hand',
+            'journal_or_conf': '2023 IEEE World AI IoT Congress (AIIoT)',
             'rest_part': '2023 IEEE World AI IoT Congress (AIIoT), Seattle, WA, USA, 2023, pp. 0520-0524, doi: 10.1109/AIIoT58121.2023.10174491',
             'doi': 'doi: 10.1109/AIIoT58121.2023.10174491',
             'googl_scholar': 'https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1PhvGNEAAAAJ&citation_for_view=1PhvGNEAAAAJ:_FxGoFyzp5QC',
@@ -82,9 +82,9 @@ var data = {
 
 
         {
-            'authors': 'E. Sola-Thomas, M. A. Baset Sarker and M. Imtiaz,',
-            'title': 'FPGA-Controlled AI Vision for Prosthetics hand,',
-            'journal_or_conf': 'Interdisciplinary Conference on Mechanics, Computers and Electronics (ICMECE) 2022 ',
+            'authors': 'E. Sola-Thomas, M. A. Baset Sarker and M. Imtiaz',
+            'title': 'FPGA-Controlled AI Vision for Prosthetics hand',
+            'journal_or_conf': 'Interdisciplinary Conference on Mechanics, Computers and Electronics (ICMECE) 2022',
             'rest_part': '2023 IEEE World AI IoT Congress (AIIoT), Seattle, WA, USA, 2023, pp. 0520-0524, doi: 10.1109/AIIoT58121.2023.10174491. ',
             'doi': '10.1234/5678',
             'googl_scholar': 'https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1PhvGNEAAAAJ&citation_for_view=1PhvGNEAAAAJ:_FxGoFyzp5QC',
@@ -95,7 +95,7 @@ var data = {
 
 
         {
-            'authors': 'G Stoyell, A Seybolt, T Griebel, S Sood, MAB Sarker, A Khondker, MH Imtiaz ',
+            'authors': 'G Stoyell, A Seybolt, T Griebel, S Sood, MAB Sarker, A Khondker, MH Imtiaz',
             'title': 'Implementation of a Mind-Controlled Wheelchair',
             'journal_or_conf': 'Proceedings of the St. Lawrence Section Annual Conference, ',
             'rest_part': '25-26, Syracuse, NY, USA',
@@ -107,8 +107,8 @@ var data = {
         },
 
         {
-            'authors': 'MAB Sarker, MH Imtiaz, SMM Al Mamun, ',
-            'title': 'Development Of A Raspberry Pi Based Home Automation System, ',
+            'authors': 'MAB Sarker, MH Imtiaz, SMM Al Mamun',
+            'title': 'Development Of A Raspberry Pi Based Home Automation System',
             'journal_or_conf': 'Bangladesh Journal of Physics, ',
             'rest_part': 'Dhaka, Bangladesh, 16, 59-66,2014 ',
             'doi': '',
