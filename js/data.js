@@ -248,7 +248,7 @@ var data = {
                     
                 },
                 {
-                    'title': '<b>1st, 2nd, 3rd for three segments</b>, President’s Challenge 2022,  for "VISION CONTROLLED PROSTHETIC HAND", Awarded by Clarkson, USA',
+                    'title': '<b>Won 1st, 2nd, 3rd for three segments</b>, President’s Challenge 2022,  for "VISION CONTROLLED PROSTHETIC HAND", Awarded by Clarkson, USA',
                     'month': 'October 2022',
                     'date': 'October 15, 2022',
                 },
