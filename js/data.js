@@ -242,13 +242,13 @@ var data = {
             'year': '2022',
             'events':[
                 {
-                    'title': '<b>"Won Technology showcase award</b>, "VISION CONTROLLED PROSTHETIC HAND", Awarded by Clarkson University, USA.',
+                    'title': '<b>"Won Technology showcase award"</b>, "VISION CONTROLLED PROSTHETIC HAND", Awarded by Clarkson University, USA.',
                     'month': 'October 2022',
                     'date': 'October 26, 2022',
                     
                 },
                 {
-                    'title': '<b>Won 1st, 2nd, 3rd for three segments</b>, President’s Challenge 2022,  for "VISION CONTROLLED PROSTHETIC HAND", Awarded by Clarkson, USA',
+                    'title': '<b>"Won 1st, 2nd, 3rd for three segments"</b>, President’s Challenge 2022,  for "VISION CONTROLLED PROSTHETIC HAND", Awarded by Clarkson, USA',
                     'month': 'October 2022',
                     'date': 'October 15, 2022',
                 },
@@ -259,7 +259,7 @@ var data = {
             'year': '2021',
             'events':[
                 {
-                    'title': '<b>Won best video creation award</b>, President’s Challenge 2021, Best Project demonstration in video on SMART THRONE, Awarded by Clarkson University, USA',
+                    'title': '<b>"Won best video creation award"</b>, President’s Challenge 2021, Best Project demonstration in video on SMART THRONE, Awarded by Clarkson University, USA',
                     'month': 'April 2021',
                 },
 
