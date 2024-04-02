@@ -83,7 +83,7 @@ var data = {
             'authors': 'E. Sola-Thomas, M. A. Baset Sarker and M. Imtiaz',
             'title': 'FPGA-Controlled AI Vision for Prosthetics hand',
             'journal_or_conf': '2023 IEEE World AI IoT Congress (AIIoT)',
-            'rest_part': '2023 IEEE World AI IoT Congress (AIIoT), Seattle, WA, USA, 2023, pp. 0520-0524, doi: 10.1109/AIIoT58121.2023.10174491',
+            'rest_part': 'Seattle, WA, USA, 2023, pp. 0520-0524, doi: 10.1109/AIIoT58121.2023.10174491',
             'doi': 'doi: 10.1109/AIIoT58121.2023.10174491',
             'googl_scholar': 'https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1PhvGNEAAAAJ&citation_for_view=1PhvGNEAAAAJ:_FxGoFyzp5QC',
             'paper_link': 'https://ieeexplore.ieee.org/abstract/document/10174491',
