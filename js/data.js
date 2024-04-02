@@ -117,6 +117,7 @@ var data = {
             'type': 'conference',
             'others':'presentation'
         },
+
         {
             'authors': 'M A B Sarker, Ernesto S Sola, Masudul Imtiaz',
             'title': 'Adding cameras to wheelchairs to provide octascopic vision',
@@ -124,7 +125,7 @@ var data = {
             'rest_part': 'Aug 24-26, Online.',
             'doi': '',
             'googl_scholar': '',
-            'paper_link': 'https://elsevier.floq.live/event/meas2022/slides_&_posters?objectClass=programelement&objectId=62fc990423bf585b6019d1fd&tab=1&type=detail',
+            'paper_link': 'https://oxford-abstracts.s3.amazonaws.com/5e2484d8-ae44-4fb9-9c40-285ab0944eda.pdf',
             'source_code': '',
             'type': 'poster',
             'others':'poster'
@@ -136,7 +137,7 @@ var data = {
             'rest_part': 'Aug 24-26, Online.',
             'doi': '',
             'googl_scholar': '',
-            'paper_link': 'https://elsevier.floq.live/event/meas2022/slides_&_posters?objectClass=programelement&objectId=62f514332280b68c047ccd84&tab=1&type=detail',
+            'paper_link': 'https://oxford-abstracts.s3.amazonaws.com/8d63a749-902a-4716-b109-2277039c8f68.pdf',
             'source_code': '',
             'type': 'poster',
             'others':'poster'
@@ -313,7 +314,7 @@ var data = {
             'year': '2019',
             'events':[
                 {
-                    'title': 'Employee of the month, Awarded by PRAN-RFL group, Bangladesh.',
+                    'title': 'Employee of the month, January 2019, Awarded by PRAN-RFL group, Bangladesh.',
                 },
             
             ]
