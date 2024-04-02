@@ -231,10 +231,6 @@ var data = {
                     'title': 'Presented, M A Baset Sarker, Usama Butt, Masudul Imtiaz, Abul Basar Baki, Robust Automatic Identification of Microplastics using AI-vision, A Conversation on Advances in Water Science and Technology (March 12-13, 2023)',
                     'month': 'March 23',
                 },
-                // {
-                //     'title': 'First Entry',
-                //     'month': 'March 23',
-                // }
             
             ]
         },
