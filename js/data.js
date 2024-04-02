@@ -18,10 +18,21 @@ var data = {
             'source_code': 'https://github.com/baset-sarker/vision_enabled_prosthetic_hand',
             'type': 'conference'
         },
-
+        
+        {
+            'authors': 'M. A. B. Sarker, U. Butt, M. H. Imtiaz and A. B. Baki',
+            'title': 'Automatic Detection of Microplastics in the Aqueous Environment',
+            'journal_or_conf': '2023 IEEE 13th Annual Computing and Communication Workshop and Conference (CCWC)',
+            'rest_part': 'Las Vegas, NV, USA, 2023, pp. 0768-0772, doi: 10.1109/CCWC57344.2023.10099253',
+            'doi': 'doi: 10.1109/CCWC57344.2023.10099253',
+            'googl_scholar': 'https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1PhvGNEAAAAJ&citation_for_view=1PhvGNEAAAAJ:ufrVoPGSRksC',
+            'paper_link': 'https://ieeexplore.ieee.org/abstract/document/10099253',
+            'source_code': '',
+            'type': 'conference'
+        },
       
         {
-            'authors': 'M.A.B, Sarker;E.,Sola-Thomas; C., Jamieson; M.H., Imtiaz',
+            'authors': 'M.A.B Sarker, E. Sola-Thomas, C. Jamieson, M.H. Imtiaz',
             'title': 'Autonomous Movement of Wheelchair by Cameras and YOLOv7',
             'journal_or_conf': 'Interdisciplinary Conference on Mechanics, Computers and Electronics (ICMECE) 2022',
             'rest_part': 'Eng. Proc. 2023, 31, 60. https://doi.org/10.3390/ASEC2022-13834.',
@@ -93,6 +104,31 @@ var data = {
             'type': 'conference'
         },
 
+         
+        {
+            'authors': 'M. A. B. Sarker, U. Butt, M. H. Imtiaz, and A. B. M. Baki',
+            'title': 'Robust Automatic Identification of Microplastics using AI-vision',
+            'journal_or_conf': '1st Annual Meeting, A Conversation on Advances in Water Science and Technology',
+            'rest_part': 'NYS Center of Excellence in Healthy Water Solutions, Clarkson University and SUNY ESF, Syracuse, NY, Mar. 13, 2023. ',
+            'doi': '',
+            'googl_scholar': '',
+            'paper_link': '',
+            'source_code': '',
+            'type': 'conference',
+            'others':'presentation'
+        },
+        {
+            'authors': 'M A B Sarker, Ernesto S Sola, Masudul Imtiaz',
+            'title': 'Adding cameras to wheelchairs to provide octascopic vision',
+            'journal_or_conf': 'Measurement, Sensor Systems, and Applications Conference (MEAS) 2022',
+            'rest_part': 'Aug 24-26, Online.',
+            'doi': '',
+            'googl_scholar': '',
+            'paper_link': 'https://elsevier.floq.live/event/meas2022/slides_&_posters?objectClass=programelement&objectId=62fc990423bf585b6019d1fd&tab=1&type=detail',
+            'source_code': '',
+            'type': 'conference',
+            'others':'poster'
+        },
 
         {
             'authors': 'G Stoyell, A Seybolt, T Griebel, S Sood, MAB Sarker, A Khondker, MH Imtiaz',

@@ -10,7 +10,7 @@ window.addEventListener('load', function () {
         inner_text += journal.rest_part;
 
         if (journal.paper_link && journal.paper_link != '') {
-            inner_text = inner_text + "<a class=\"text-info text-decoration-none\" href="+journal.paper_link+"> [Paper link]</a>";
+            inner_text = inner_text + "<a class=\"text-info text-decoration-none\" href="+journal.paper_link+"> [Cross ref]</a>";
         }
         
         if (journal.googl_scholar  && journal.googl_scholar != '') {
