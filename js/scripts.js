@@ -31,3 +31,10 @@ function last_updated(){
 }
 
 last_updated();
+
+
+
+// Get the current year
+var currentYear = new Date().getFullYear();
+// Update the copyright year in the footer
+document.getElementById("copyright-year").textContent = currentYear;
