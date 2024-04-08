@@ -275,6 +275,17 @@ var data = {
 
 
     'awards': [
+        
+        {
+            'year': '2024',
+            'events':[
+                {
+                    'title': 'NYS Center of Excellence in Healthy Water Solutions Fellowship 2024, Awarded by New York State Center of Excellence in Healthy Water Solutions, USA.',
+                    
+                },
+            
+            ]
+        },
         {
             'year': '2023',
             'events':[

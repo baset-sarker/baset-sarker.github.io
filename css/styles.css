@@ -91,6 +91,13 @@
   }
 }
 
+.bg-green {
+  background-color: rgb(0,78,66);
+}
+.text-clarkson {
+  color: rgb(0,78,66);
+}
+
 body {
   margin: 0;
   font-family: var(--bs-body-font-family);
