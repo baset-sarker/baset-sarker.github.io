@@ -197,7 +197,7 @@ var data = {
             'events':[
                 {
                     'month': 'April 2024',
-                    'title': '<b>"Awarded Fellowship 2024"</b>, (05 April 2024) NYS Center of Excellence in Healthy Water Solutions Fellowship 2024',  
+                    'title': '<b>"Awarded Fellowship 2024"</b>, (05 April 2024) NYS Center of Excellence in Healthy Water Solutions Fellowship 2024, Clarkson University',  
                 },
                 {
                     'month': 'March 2024',
