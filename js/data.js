@@ -90,20 +90,6 @@ var data = {
             'source_code': '',
             'type': 'conference'
         },
-
-
-        {
-            'authors': 'E. Sola-Thomas, M. A. Baset Sarker and M. Imtiaz',
-            'title': 'FPGA-Controlled AI Vision for Prosthetics hand',
-            'journal_or_conf': 'Interdisciplinary Conference on Mechanics, Computers and Electronics (ICMECE) 2022',
-            'rest_part': '2023 IEEE World AI IoT Congress (AIIoT), Seattle, WA, USA, 2023, pp. 0520-0524, doi: 10.1109/AIIoT58121.2023.10174491. ',
-            'doi': '10.1234/5678',
-            'googl_scholar': 'https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1PhvGNEAAAAJ&citation_for_view=1PhvGNEAAAAJ:_FxGoFyzp5QC',
-            'paper_link': 'https://ieeexplore.ieee.org/abstract/document/10174491',
-            'source_code': '',
-            'type': 'conference'
-        },
-
          
         {
             'authors': 'M. A. B. Sarker, U. Butt, M. H. Imtiaz, and A. B. M. Baki',
