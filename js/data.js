@@ -42,6 +42,7 @@ var data = {
             'source_code': '',
             'type': 'journal'
         },
+        
         {
             'authors': 'M.A.B Sarker, E. Sola-Thomas, C. Jamieson, M.H. Imtiaz',
             'title': 'Autonomous Movement of Wheelchair by Cameras and YOLOv7',
