@@ -42,7 +42,7 @@ var data = {
             'source_code': '',
             'type': 'journal'
         },
-        
+
         {
             'authors': 'M.A.B Sarker, E. Sola-Thomas, C. Jamieson, M.H. Imtiaz',
             'title': 'Autonomous Movement of Wheelchair by Cameras and YOLOv7',
@@ -54,7 +54,6 @@ var data = {
             'source_code': '',
             'type': 'journal'
         },
-
         {
             'authors': 'E. Sola-Thomas, M. A. Baser Sarker, M. V. Caracciolo, O. Casciotti, C. D. Lloyd and M. H. Imtiaz',
             'title': 'Design of an Initial Prototype of the AI Wheelchair',
