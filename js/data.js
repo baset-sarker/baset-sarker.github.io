@@ -12,7 +12,6 @@ var data = {
             'other_ref': 'This is the first entry in the conference. It is a test entry.',
             'type': 'journal'
         }
-
     ],
     "conferences": [
         {
