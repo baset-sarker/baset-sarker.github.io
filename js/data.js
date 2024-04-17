@@ -18,7 +18,6 @@ var data = {
             'source_code': 'https://github.com/baset-sarker/vision_enabled_prosthetic_hand',
             'type': 'conference'
         },
-    
         {
             'authors': 'M. A. B. Sarker, U. Butt, M. H. Imtiaz and A. B. Baki',
             'title': 'Automatic Detection of Microplastics in the Aqueous Environment',
