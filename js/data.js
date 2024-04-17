@@ -18,7 +18,6 @@ var data = {
             'source_code': 'https://github.com/baset-sarker/vision_enabled_prosthetic_hand',
             'type': 'conference'
         },
-        
         {
             'authors': 'M. A. B. Sarker, U. Butt, M. H. Imtiaz and A. B. Baki',
             'title': 'Automatic Detection of Microplastics in the Aqueous Environment',
@@ -54,7 +53,7 @@ var data = {
             'source_code': '',
             'type': 'journal'
         },
-        
+
         {
             'authors': 'E. Sola-Thomas, M. A. Baser Sarker, M. V. Caracciolo, O. Casciotti, C. D. Lloyd and M. H. Imtiaz',
             'title': 'Design of an Initial Prototype of the AI Wheelchair',
