@@ -112,7 +112,7 @@ var data = {
             'rest_part': 'NYS Center of Excellence in Healthy Water Solutions, Clarkson University and SUNY ESF, Syracuse, NY, Mar. 13, 2023. ',
             'doi': '',
             'googl_scholar': '',
-            'paper_link': '',
+            'paper_link': 'https://drive.google.com/file/d/1JCO3T6Jn_h4gaYuW8QFxtwkCEuNC6TvM/view',
             'source_code': '',
             'type': 'conference',
             'others':'presentation'
