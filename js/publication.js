@@ -3,7 +3,7 @@ window.addEventListener('load', function () {
   // Loop through each journal entry and print its contents
     data.journals.forEach(function(journal, index) {
         var journalEntry = document.createElement("li");
-        journalEntry.className = "timeline-item mb-3 text-muted";
+        journalEntry.className = "timeline-item mb-3 text-white";
         inner_text = "<div>" + journal.authors 
         inner_text += ", <i>\""+ journal.title + ",\"</i> "; 
         inner_text += journal.journal_or_conf + " ,"
