@@ -143,7 +143,7 @@ const bibtexData = `
     url = {https://doi.org/10.20944/preprints202406.0677.v1}
 }
 
-@conference{microplastics_detection_2024,
+@poster{microplastics_detection_2024,
     author = {M. A. B. Sarker and M. H. Imtiaz and Thomas Holsen and A. B. Baki},
     title = {AI-Vision based Camera Sensor for Real-time Underwater Microplastics Detection},
     booktitle = {Annual Meeting, NYS Center of Excellence in Healthy Water Solutions, Clarkson University and SUNY ESF},
