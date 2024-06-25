@@ -175,11 +175,6 @@ var data = {
             'source_code': '',
             'type': 'journal'
         }
-        
-        
-
-      
-
 
     ],
     "conferences": [

@@ -1,5 +1,5 @@
 function formatIEEE(entry) {
-    const author = entry.entryTags.author || '';
+    var author = entry.entryTags.author || '';
     const title = entry.entryTags.title || '';
     var journal = entry.entryTags.journal || entry.entryTags.booktitle || '';
     const year = entry.entryTags.year || '';
@@ -15,6 +15,9 @@ function formatIEEE(entry) {
 
     
     console.log(entry.entryType.toLowerCase())
+    if (' and ' in author):
+        author = author.split(' and ')
+        author = author.join(', ')
 
     journal = `<i>${journal}</i>`
 
