@@ -11,7 +11,7 @@ var data = {
             'authors': 'M. A. Baset Sarker, Juan Pablo Sola, Aaron Jones, Evan Laing, Ernesto S Sola, and Masudul H. Imtiaz',
             'title': 'Vision Controlled Sensorized Prosthetic Hand',
             'journal_or_conf': 'Interdisciplinary Conference on Mechanics, Computers and Electronics (ICMECE) 2022',
-            'rest_part': 'Albany, NY, USA, 2022, pp. 1-4, doi: 10.1109/MDTS54894.2022.9826969.',
+            'rest_part': 'Albany, NY, USA, 2022',
             'doi': '',
             'googl_scholar': 'https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1PhvGNEAAAAJ&citation_for_view=1PhvGNEAAAAJ:YsMSGLbcyi4C',
             'paper_link': 'https://www.researchgate.net/profile/Md-Abdul-Baset-Sarker/publication/363281218_Vision_Controlled_Sensorized_Prosthetic_Hand/links/636a913d2f4bca7fd040da45/Vision-Controlled-Sensorized-Prosthetic-Hand.pdf',
