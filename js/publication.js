@@ -15,7 +15,7 @@ function formatIEEE(entry) {
 
     
     console.log(entry.entryType.toLowerCase())
-    if (' and ' in author):
+    if (' and ' in author)
         author = author.split(' and ')
         author = author.join(', ')
 
