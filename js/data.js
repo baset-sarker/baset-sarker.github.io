@@ -153,6 +153,33 @@ var data = {
             'type': 'conference'
         },
 
+        {
+            'authors': 'MD ABDUL BASET SARKER, Masudul H. Imtiaz',
+            'title': 'AI Face-Capture for First-time Passport Application',
+            'journal_or_conf': 'Preprints',
+            'rest_part': 'June 2024',
+            'doi': '10.20944/preprints202406.0392.v1',
+            'googl_scholar': '',
+            'paper_link': 'https://doi.org/10.20944/preprints202406.0392.v1',
+            'source_code': '',
+            'type': 'journal'
+        },
+        {
+            'authors': 'MD ABDUL BASET SARKER, Juan Pablo Sola-Thomas, Masudul H. Imtiaz',
+            'title': 'AI-Powered Camera and Sensors for the Rehabilitation Hand Exoskeleton',
+            'journal_or_conf': 'Preprints',
+            'rest_part': 'June 2024',
+            'doi': '10.20944/preprints202406.0677.v1',
+            'googl_scholar': '',
+            'paper_link': 'https://doi.org/10.20944/preprints202406.0677.v1',
+            'source_code': '',
+            'type': 'journal'
+        }
+        
+        
+
+      
+
 
     ],
     "conferences": [
