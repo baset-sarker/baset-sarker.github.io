@@ -1,31 +1,38 @@
-window.addEventListener('load', function () {
+function formatIEEE(entry) {
+    const author = entry.entryTags.author || '';
+    const title = entry.entryTags.title || '';
+    var journal = entry.entryTags.journal || entry.entryTags.booktitle || '';
+    const year = entry.entryTags.year || '';
+    const volume = entry.entryTags.volume ? `vol. ${entry.entryTags.volume}, ` : '';
+    const number = entry.entryTags.number ? `no. ${entry.entryTags.number}, ` : '';
+    const pages = entry.entryTags.pages ? `pp. ${entry.entryTags.pages}, ` : '';
+    const month = entry.entryTags.month ? entry.entryTags.month + ' ' : '';
+    const doi = entry.entryTags.doi ? `doi: ${entry.entryTags.doi}` : '';
+    const url = entry.entryTags.url ? `<a class=\"text-info text-decoration-none\" href="${entry.entryTags.url}">[Url]</a>` : '';
+    const crossRef = entry.entryTags.cross_ref ? `<a class=\"text-info text-decoration-none\" href="${entry.entryTags.cross_ref}">[CrossRef]</a>` : '';
+    const googleScholarLink = entry.entryTags.google_scholar ? `<a class=\"text-info text-decoration-none\" href="${entry.entryTags.google_scholar}">[Google Scholar]</a>` : '';
+    const sourceCode = entry.entryTags.source_code ? `<a class=\"text-info text-decoration-none\" href="${entry.entryTags.source_code}">[Source Code]</a>` : '';
 
-  // Loop through each journal entry and print its contents
-    data.journals.forEach(function(journal, index) {
-        var journalEntry = document.createElement("li");
-        journalEntry.className = "timeline-item mb-3 text-muted";
-        inner_text = "<div>" + journal.authors 
-        inner_text += ", <i>\""+ journal.title + ",\"</i> "; 
-        inner_text += journal.journal_or_conf + " ,"
-        inner_text += journal.rest_part;
+    
+    console.log(entry.entryType.toLowerCase())
 
-        if (journal.paper_link && journal.paper_link != '') {
-            inner_text = inner_text + "<a class=\"text-info text-decoration-none\" href="+journal.paper_link+"> [Cross ref]</a>";
-        }
-        
-        if (journal.googl_scholar  && journal.googl_scholar != '') {
-            inner_text += "<a class=\"text-info text-decoration-none\" href="+journal.googl_scholar+"> [Google Scholar]</a>";
-        }
-        
-        if (journal.source_code && journal.source_code != '') {
-            inner_text = inner_text + "<a class=\"text-info text-decoration-none\" href="+journal.source_code+"> [Source code]</a>";
-        }
+    journal = `<i>${journal}</i>`
 
-        inner_text = inner_text + "</div>";
+    return `${author}, "${title}," ${journal}, ${volume}${number}${pages}${month}${year}. ${doi} ${url} ${crossRef} ${googleScholarLink} ${sourceCode}`;
+}
 
-        journalEntry.innerHTML = inner_text;
-        document.getElementById("journal-list").appendChild(journalEntry);
 
+function displayParsedEntries(entries) {
+    const list = document.getElementById('journal-list');
+    entries.forEach(entry => {
+        const listItem = document.createElement('li');
+        listItem.className = "timeline-item mb-3 text-muted";
+        listItem.innerHTML = formatIEEE(entry); // Use innerHTML to include links
+        list.appendChild(listItem);
     });
+}
 
+document.addEventListener('DOMContentLoaded', () => {
+    const parsedEntries = bibtexParse.toJSON(bibtexData);
+    displayParsedEntries(parsedEntries);
 });
