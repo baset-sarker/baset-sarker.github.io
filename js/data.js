@@ -223,6 +223,10 @@ var data = {
             'year': '2024',
             'events':[
                 {
+                    'month': 'May 2024',
+                    'title': '<b>"Presented oral and poster"</b>, (15-16 May 2024) Annual Meeting, NYS Center of Excellence in Healthy Water Solutions, Clarkson University and SUNY ESF, Syracuse, NY',  
+                },
+                {
                     'month': 'April 2024',
                     'title': '<b>"Awarded Fellowship 2024"</b>, (05 April 2024) NYS Center of Excellence in Healthy Water Solutions Fellowship 2024, Clarkson University',  
                 },
