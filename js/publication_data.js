@@ -151,7 +151,8 @@ const bibtexData = `
     year = {2024},
     month = {March},
     day = {15-16},
-    note = {presented}
+    note = {presented},
+    url = {http://dx.doi.org/10.13140/RG.2.2.25297.34400}
 }
 
 
