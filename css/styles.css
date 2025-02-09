@@ -660,6 +660,14 @@ progress {
   margin-left: auto;
 }
 
+@media (max-width: 768px) {
+  #profile_info {
+    padding-top: 0;
+  }
+  .masthead {
+    
+  }
+}
 
 @media (min-width: 576px) {
   .container-sm, .container {
