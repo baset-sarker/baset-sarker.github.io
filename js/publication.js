@@ -31,7 +31,7 @@ function displayParsedEntries(entries) {
     const list = document.getElementById('journal-list');
     entries.forEach(entry => {
         const listItem = document.createElement('li');
-        listItem.className = "timeline-item mb-3 text-muted";
+        listItem.className = "timeline-item mb-3 text-black";
         listItem.innerHTML = formatIEEE(entry); // Use innerHTML to include links
         list.appendChild(listItem);
     });
