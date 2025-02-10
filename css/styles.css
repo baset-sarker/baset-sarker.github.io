@@ -663,6 +663,7 @@ progress {
 @media (max-width: 768px) {
   #profile_info {
     padding-top: 0;
+    padding-left: 40px;
   }
 }
 
