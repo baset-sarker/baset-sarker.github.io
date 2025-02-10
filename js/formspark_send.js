@@ -33,7 +33,7 @@ const FORMSPARK_ACTION_URL = "https://submit-form.com/WmUhP9YLf";
                       throw new Error("Failed to submit the form");
                   }
 
-                //   alert("Form submitted successfully!");
+                  alert("Form submitted successfully!");
                   this.resetForm();
               } catch (error) {
                   alert("Something went wrong: please try again later ");
