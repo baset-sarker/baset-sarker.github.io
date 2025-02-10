@@ -429,57 +429,42 @@
             <div class="container">
                 <div class="text-center">
                     <h2 class="section-heading text-uppercase">Contact Me</h2>
-                    <h3 class="section-subheading text-muted"></h3>
+                    <h3 id="contact_success" class="section-subheading text-white"></h3>
                 </div>
 
-                <form id="contactForm" action="https://submit-form.com/WmUhP9YLf">
+                <form id="contactForm" x-data="contactForm()" @submit.prevent="submit">
                     <!-- Formspark-->
                     <div class="row align-items-stretch mb-5">
                         <div class="col-md-6">
                             <div class="form-group">
                                 <!-- Name input-->
-                                <input class="form-control" id="name" name="name" type="text" placeholder="Your Name *" data-sb-validations="required" required />
+                                <input class="form-control" x-model="data.name" id="name" name="name" type="text" placeholder="Your Name *"  required />
                                 <div class="invalid-feedback" data-sb-feedback="name:required">A name is required.</div>
                             </div>
                             <div class="form-group">
                                 <!-- Email address input-->
-                                <input class="form-control" id="email" name="email" type="email" placeholder="Your Email *" data-sb-validations="required,email" required />
+                                <input class="form-control" x-model="data.email" id="email" name="email" type="email" placeholder="Your Email *" required />
                                 <div class="invalid-feedback" data-sb-feedback="email:required">An email is required.</div>
                                 <div class="invalid-feedback" data-sb-feedback="email:email">Email is not valid.</div>
                             </div>
                             <div class="form-group mb-md-0">
                                 <!-- Phone number input-->
-                                <input class="form-control" id="phone" name="phone" type="tel" placeholder="Your Phone *" data-sb-validations="required" required/>
+                                <input class="form-control"  x-model="data.phone" id="phone" name="phone" type="tel" placeholder="Your Phone *" required/>
                                 <div class="invalid-feedback" data-sb-feedback="phone:required">A phone number is required.</div>
                             </div>
                         </div>
                         <div class="col-md-6">
                             <div class="form-group form-group-textarea mb-md-0">
                                 <!-- Message input-->
-                                <textarea class="form-control" name="message" id="message" placeholder="Your Message *" data-sb-validations="required" required></textarea>
+                                <textarea class="form-control" x-model="data.message" name="message" id="message" placeholder="Your Message *" required></textarea>
                                 <div class="invalid-feedback" data-sb-feedback="message:required">A message is required.</div>
                             </div>
                         </div>
                     </div>
-                    <!-- Submit success message-->
-                    <!---->
-                    <!-- This is what your users will see when the form-->
-                    <!-- has successfully submitted-->
-                    <!-- <div class="d-none" id="submitSuccessMessage">
-                        <div class="text-center text-white mb-3">
-                            <div class="fw-bolder">Form submission successful!</div>
-                            To activate this form, sign up at
-                            <br />
-                            <a href="https://startbootstrap.com/solution/contact-forms">https://startbootstrap.com/solution/contact-forms</a>
-                        </div>
-                    </div> -->
-                    <!-- Submit error message-->
-                    <!---->
-                    <!-- This is what your users will see when there is-->
-                    <!-- an error submitting the form-->
-                    <!-- <div class="d-none" id="submitErrorMessage"><div class="text-center text-danger mb-3">Error sending message!</div></div> -->
-                    <!-- Submit Button-->
-                    <div class="text-center"><button class="btn btn-primary btn-xl text-uppercase" id="" type="submit">Send Message</button></div>
+                    <div class="text-center">
+                        <button class="btn btn-primary btn-xl text-uppercase" :disabled="loading" x-text="buttonText">Submit</button>
+                        <!-- <button class="btn btn-primary btn-xl text-uppercase" id="" x-text="buttonText" :disabled="loading">Send Message</button> -->
+                    </div>
                 </form>
             </div>
         </section>
@@ -538,17 +523,11 @@
         <script src="js/scripts.js"></script>
         <script src="js/bibtexParser.js"></script>
         <script src="js/publication_data.js"></script>
-        <script src="js/publication.js"></script>    
+        <script src="js/publication.js"></script> 
+        <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
+
+        <script src="js/formspark_send.js"></script>   
         <script>
-            // modal award image replacement
-            // document.getElementsByClassName("awards").addEventListener("click", function() {
-            //     let imgSrc = this.getAttribute("data-img-src"); // Get image source from data attribute
-            //     let awardName = this.getAttribute("data-award-name"); // Get image source from data attribute
-            //     let awardedBy = this.getAttribute("data-awarded-by"); // Get image source from data attribute
-            //     document.getElementById("img_holder").src = imgSrc; // Update image
-            //     document.getElementById("award-name").innerHTML = awardName; // Update image
-            //     document.getElementById("awarded-by").innerHTML = awardedBy; // Update image
-            // });
 
             document.querySelectorAll(".awards").forEach(function(award) {
                 award.addEventListener("click", function() {
