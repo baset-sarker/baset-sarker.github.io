@@ -11151,8 +11151,8 @@ header.masthead .masthead-heading {
   position: absolute;
   z-index: 100;
   left: 0;
-  width: 80px;
-  height: 80px;
+  width: 60px;
+  height: 60px;
   margin-left: 0;
   text-align: center;
   color: white;
@@ -11199,22 +11199,22 @@ header.masthead .masthead-heading {
 
 @media (min-width: 768px) {
   .timeline:before {
-    left: 50%;
+    left: 10%;
   }
   .timeline > li {
-    min-height: 100px;
-    margin-bottom: 100px;
+    min-height: 50px;
+    margin-bottom: 50;
   }
   .timeline > li .timeline-panel {
     float: left;
-    width: 41%;
+    width: 90%;
     padding: 0 20px 20px 30px;
     text-align: right;
   }
   .timeline > li .timeline-image {
-    left: 50%;
-    width: 100px;
-    height: 100px;
+    left: 10%;
+    width: 50px;
+    height: 50px;
     margin-left: -50px;
   }
   .timeline > li .timeline-image h4, .timeline > li .timeline-image .h4 {
@@ -11230,14 +11230,14 @@ header.masthead .masthead-heading {
 }
 @media (min-width: 992px) {
   .timeline > li {
-    min-height: 150px;
+    min-height: 50px;
   }
   .timeline > li .timeline-panel {
     padding: 0 20px 20px;
   }
   .timeline > li .timeline-image {
-    width: 150px;
-    height: 150px;
+    width: 50px;
+    height: 50px;
     margin-left: -75px;
   }
   .timeline > li .timeline-image h4, .timeline > li .timeline-image .h4 {
@@ -11251,14 +11251,14 @@ header.masthead .masthead-heading {
 }
 @media (min-width: 1200px) {
   .timeline > li {
-    min-height: 170px;
+    min-height: 50px;
   }
   .timeline > li .timeline-panel {
     padding: 0 20px 20px 100px;
   }
   .timeline > li .timeline-image {
-    width: 170px;
-    height: 170px;
+    width: 50px;
+    height: 50px;
     margin-left: -85px;
   }
   .timeline > li .timeline-image h4, .timeline > li .timeline-image .h4 {
