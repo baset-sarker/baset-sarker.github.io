@@ -4,13 +4,16 @@ const result = document.getElementById('contact_success');
 form.addEventListener('submit', function(e) {
   e.preventDefault();
   const formData = new FormData(form);
+
+  // add the URL of the form endpoint here
+  const baseUrl = window.location.origin;
+  formData.append('website', baseUrl);
+
   const object = Object.fromEntries(formData);
   const json = JSON.stringify(object);
   result.innerHTML = "Please wait..."
   
-  // add the URL of the form endpoint here
-  const baseUrl = window.location.origin;
-  formData.append('website', baseUrl);
+ 
 
     fetch('https://api.web3forms.com/submit', {
             method: 'POST',
@@ -23,7 +26,7 @@ form.addEventListener('submit', function(e) {
         .then(async (response) => {
             let json = await response.json();
             if (response.status == 200) {
-                result.innerHTML = "Form submitted successfully";
+                result.innerHTML = "Message submitted successfully";
             } else {
                 console.log(response);
                 result.innerHTML = json.message;
