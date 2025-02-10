@@ -7,6 +7,10 @@ form.addEventListener('submit', function(e) {
   const object = Object.fromEntries(formData);
   const json = JSON.stringify(object);
   result.innerHTML = "Please wait..."
+  
+  // add the URL of the form endpoint here
+  const baseUrl = window.location.origin;
+  formData.append('website', baseUrl);
 
     fetch('https://api.web3forms.com/submit', {
             method: 'POST',
