@@ -664,9 +664,6 @@ progress {
   #profile_info {
     padding-top: 0;
   }
-  .masthead {
-    
-  }
 }
 
 @media (min-width: 576px) {
@@ -10983,6 +10980,7 @@ header.masthead {
   background-attachment: scroll;
   background-position: center center;
   background-size: cover;
+  background: linear-gradient(135deg, #0b6b66, #033d3c);
 }
 header.masthead .masthead-subheading {
   font-size: 1.5rem;
@@ -11050,7 +11048,7 @@ header.masthead .masthead-heading {
   padding: 1.5rem;
   text-align: center;
   background-color: #fff;
-  height: 130px;
+  height: 100px;
 }
 #portfolio .portfolio-item .portfolio-caption .portfolio-caption-heading {
   font-size: 1.5rem;
