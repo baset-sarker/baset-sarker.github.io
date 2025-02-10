@@ -155,5 +155,18 @@ const bibtexData = `
     url = {http://dx.doi.org/10.13140/RG.2.2.25297.34400}
 }
 
+@INPROCEEDINGS{10781495,
+  author={Alam Khondkar, Md Jahangir and Abdul Baset Sarker, Md and Imtiaz, Masudul Haider and Schuckers, Stephanie},
+  booktitle={2024 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)}, 
+  title={Development of a NIR-based Infant Iris Scanner}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-4},
+  keywords={Pediatrics;ISO Standards;Prototypes;Medical services;Software;Security;Reliability;Standards;Iris recognition;Light sources;Biometric Authentication;Facial Landmark Points;Infant Iris scanning;NIR},
+  doi={10.1109/EMBC53108.2024.10781495},
+  url={https://ieeexplore.ieee.org/abstract/document/10781495}
+}
+
 
 `;
