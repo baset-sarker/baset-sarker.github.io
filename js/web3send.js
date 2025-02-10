@@ -3,17 +3,16 @@ const result = document.getElementById('contact_success');
 
 form.addEventListener('submit', function(e) {
   e.preventDefault();
-  const formData = new FormData(form);
+  let formData = new FormData(form);
 
   // add the URL of the form endpoint here
   const baseUrl = window.location.origin;
-  formData.append('website', baseUrl);
+  formData.append('website_url', baseUrl);
 
   const object = Object.fromEntries(formData);
   const json = JSON.stringify(object);
   result.innerHTML = "Please wait..."
   
- 
 
     fetch('https://api.web3forms.com/submit', {
             method: 'POST',
