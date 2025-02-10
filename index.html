@@ -439,7 +439,10 @@
                     <h3 id="contact_success" class="section-subheading text-white"></h3>
                 </div>
 
-                <form id="contactForm" x-data="contactForm()" @submit.prevent="submit">
+                <!-- <form id="contactForm" x-data="contactForm()" @submit.prevent="submit"> -->
+                    <form method="POST" id="contactForm" >
+
+                    <input type="hidden" name="access_key" value="c9dade09-c849-42c1-bc42-8ce2b1ff9244">
                     <!-- Formspark-->
                     <div class="row align-items-stretch mb-5">
                         <div class="col-md-6">
@@ -474,7 +477,7 @@
                     </div>
                 </form>
             </div>
-        </section>
+        </section> 
 
         
         <!-- Footer-->
@@ -533,7 +536,7 @@
         <script src="js/publication.js"></script> 
         <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
 
-        <script src="js/formspark_send.js"></script>   
+        <script src="js/web3send.js"></script>   
         <script>
 
             document.querySelectorAll(".awards").forEach(function(award) {
