@@ -13,8 +13,6 @@ form.addEventListener('submit', function(e) {
   const json = JSON.stringify(object);
   result.innerHTML = "Please wait..."
 
-  console.log(json);
-  
 
     fetch('https://api.web3forms.com/submit', {
             method: 'POST',
