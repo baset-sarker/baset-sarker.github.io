@@ -15,11 +15,11 @@ The proposed **Face-Aware Capture System** consists of the following components:
 - **Open-source:** The project’s hardware and software designs are publicly available for customization and deployment.  
 
 **System Overview**  
-1. The user positions themselves in front of the camera.  
-2. The system captures and evaluates multiple images for quality.  
-3. The best images are presented for selection.  
-4. The selected image is encrypted and securely stored.  
-5. The system ensures compliance with **ISO/IEC-19794-5** biometric standards.  
+- The user positions themselves in front of the camera.  
+- The system captures and evaluates multiple images for quality.  
+- The best images are presented for selection.  
+- The selected image is encrypted and securely stored.  
+- The system ensures compliance with **ISO/IEC-19794-5** biometric standards.  
 
 <!-- ![System Overview](system-overview.png)   -->
 <!-- *Figure: Components of the face-aware capture system*   -->
@@ -31,7 +31,7 @@ The proposed **Face-Aware Capture System** consists of the following components:
 
 **Conclusion**  
 <div style="text-align: justify;">
-This research introduces an efficient and secure **face-aware capture system** that enhances image quality for biometric applications. By leveraging **real-time quality assessment, ISO standards, and AES encryption**, the system ensures high accuracy and security. Future improvements may include **automatic height adjustment, deep learning-based quality assessment, and background separation techniques**.  
+This research introduces an efficient and secure face-aware capture system that enhances image quality for biometric applications. By leveraging real-time quality assessment, ISO standards, and AES encryption, the system ensures high accuracy and security. Future improvements may include automatic height adjustment, deep learning-based quality assessment, and background separation techniques.  
 </div>
 <br/>
 
