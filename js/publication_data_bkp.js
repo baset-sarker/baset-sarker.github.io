@@ -1,3 +1,4 @@
+const bibtexData = `
 @conference{sample2023,
     author = {M. A. Baset Sarker and Juan Pablo Sola and Aaron Jones and Evan Laing and Ernesto S Sola and Masudul H. Imtiaz},
     title = {Vision Controlled Sensorized Prosthetic Hand},
@@ -123,7 +124,7 @@
 }
 
 @article{face_capture_2024,
-    author = {M. A. B. Sarker and Masudul H. Imtiaz},
+    author = {MD ABDUL BASET SARKER and Masudul H. Imtiaz},
     title = {AI Face-Capture for First-time Passport Application},
     journal = {Preprints},
     year = {2024},
@@ -133,7 +134,7 @@
 }
 
 @article{rehab_exoskeleton_2024,
-    author = {M. A. B. Sarker and Juan Pablo Sola-Thomas and Masudul H. Imtiaz},
+    author = {MD ABDUL BASET SARKER and Juan Pablo Sola-Thomas and Masudul H. Imtiaz},
     title = {AI-Powered Camera and Sensors for the Rehabilitation Hand Exoskeleton},
     journal = {Preprints},
     year = {2024},
@@ -166,3 +167,6 @@
   doi={10.1109/EMBC53108.2024.10781495},
   url={https://ieeexplore.ieee.org/abstract/document/10781495}
 }
+`;
+
+
