@@ -29,7 +29,6 @@ The proposed **AI-Powered Microplastic Detection System** consists of the follow
 This study presents a pioneering AI-driven system for real-time microplastic detection in aquatic environments. By integrating object detection, tracking, and velocity measurement, the system achieves high accuracy in both controlled and natural settings. Future enhancements may include 3D imaging, lightweight deep learning models, and deployment on embedded platforms for wider environmental applications.  
 </div>  
 <br/>
-
 **Paper Details**  
 &nbsp;&nbsp;&nbsp; **Title:** Real-Time Detection of Microplastics Using an AI Camera  
 &nbsp;&nbsp;&nbsp; **Authors:** Md Abdul Baset Sarker, Masudul H. Imtiaz, Thomas M. Holsen, Abul B. M. Baki  
