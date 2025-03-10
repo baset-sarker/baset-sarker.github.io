@@ -22,6 +22,20 @@ The proposed **Home Automation System** consists of the following components:
 - A **high-voltage control unit** ensures safety while operating 220V AC loads.  
 - The user accesses the system via a web browser or **Android app**.  
 
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; text-align: center;">
+  <div style="margin: 10px;">
+    <img src="assets/img/projects/rpi_home_automation.png" alt="Image 1" style="width: 60%; min-width: 200px;">
+    <p><strong>Figure 1:</strong> Block diagram of the system </p>
+  </div>
+  <!-- <div style="margin: 10px;">
+    <img src="image2.jpg" alt="Image 2" style="width: 48%; min-width: 200px;">
+    <p><strong>Figure 2:</strong> Description of Image 2</p>
+  </div> -->
+</div>
+
+
+
 **Results**  
 - **User Convenience:** The system allows remote operation via a smartphone or computer.  
 - **Energy Efficiency:** Expected to reduce electricity consumption by **10%**.  
