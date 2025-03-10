@@ -4,7 +4,6 @@
 <div style="text-align: justify;">
 This paper presents the development of a Simultaneous Localization and Mapping (SLAM) based Autonomous Navigation system. The motivation for this study was to find a solution for navigating interior spaces autonomously. Interior navigation is challenging as it can be forever evolving. Solving this issue is necessary for multitude of services, like cleaning, the health industry, and in manufacturing industries. The focus of this paper is the description of the SLAM-based software architecture developed for this proposed autonomous system. A potential application of this system, oriented to a smart wheelchair, was evaluated. Current interior navigation solutions require some sort of guiding line, like a black line on the floor. With this proposed solution, interiors do not require renovation to accommodate this solution. The source code of this application has been made open source so that it could be re-purposed for a similar application. Also, this open-source project is envisioned to be improved by the broad open-source community upon past its current state.
 </div>  
-<br/>
 
 **Project Description**  
 The proposed **Autonomous Navigation System** consists of the following components:  

@@ -13,13 +13,14 @@ detection model was developed to avoid obstacles and autonomously control the mo
 paper presents the camera placement and the obstacle detection model using octascopic images. All
 the project design files have been granted an open-source license and can be reproduced publicly.
 </div>  
-<br/>
 
+<br/>
 **Project Description**  
 The proposed **Autonomous Wheelchair System** consists of the following components:  
 - **Hardware:** Standard wheelchair modified with eight 1MP monochrome cameras, Jetson Nano, motor controller.  
 - **Software:** YOLOv7-based object detection model for real-time obstacle avoidance.  
-- **System Features:**  
+
+**System Features:**  
   - 360-degree vision for environmental awareness.  
   - Custom-trained YOLOv7 model for detecting obstacles such as walls, chairs, and doors.  
   - Integrated motor control for autonomous navigation.  

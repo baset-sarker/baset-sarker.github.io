@@ -4,7 +4,6 @@
 <div style="text-align: justify;">
 Poor-quality facial images present challenges in biometric authentication, particularly for passport photo acquisition and recognition. This paper proposes an open-source, real-time facial image quality analysis system utilizing computer vision on a low-power Jetson-based hardware platform. The system includes a Jetson processor, a 16 MP autofocus camera, a touchscreen LCD, and AES encryption for secure image storage. Through pilot data collection, the system demonstrated 98.98% accuracy in capturing high-quality images. This cost-effective and customizable solution has potential applications in passport verification, security, and identity verification systems.  
 </div>
-<br/>
 
 **Project Description**  
 The proposed **Face-Aware Capture System** consists of the following components:  
@@ -21,8 +20,18 @@ The proposed **Face-Aware Capture System** consists of the following components:
 - The selected image is encrypted and securely stored.  
 - The system ensures compliance with **ISO/IEC-19794-5** biometric standards.  
 
-<!-- ![System Overview](system-overview.png)   -->
-<!-- *Figure: Components of the face-aware capture system*   -->
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; text-align: center;">
+  <div style="margin: 10px;">
+    <img src="assets/img/projects/face_aware.png" alt="Image 1" style="width: 98%; min-width: 200px;">
+    <p><strong>Figure 1:</strong> Wokring of face aware capture system</p>
+  </div>
+  <!-- <div style="margin: 10px;">
+    <img src="image2.jpg" alt="Image 2" style="width: 48%; min-width: 200px;">
+    <p><strong>Figure 2:</strong> Description of Image 2</p>
+  </div> -->
+</div>
+
 
 **Results**  
 - **Pilot Study:** Conducted with 39 participants, capturing over 6000 images.  

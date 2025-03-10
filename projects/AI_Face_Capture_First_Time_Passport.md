@@ -4,13 +4,12 @@
 <div style="text-align: justify;">
 This paper presents the development and implementation of a Pan-Tilt-Zoom (PTZ) camera interfaced with a Jetson processor hosting Artificial Intelligence (AI) algorithms, designed to address the challenges of traditional biometric capture for first-time passport photos of young children. The system enhances the accuracy, efficiency, and adaptability of facial biometric capture by recognizing and accommodating the dynamic and diverse behaviors of children. Utilizing AI, the system detects faces and analyzes facial features using 68 landmark points, ensuring high-quality images that meet ISO standards. These technical specifications, implementation process, and performance evaluations of the developed system are provided in this paper, demonstrating the potential of the proposed AI Face-Capture to advance biometric identification and verification for young children.
 </div>  
-<br/>
 
 **Project Description**  
 The proposed **AI Face-Capture System** consists of the following components:  
 - **Hardware:** Jetson Nano, 12MP IMX477 PTZ camera, Arducam PTZ controller, LCD display.  
 - **Software:** Dlib-based face detection, 68 landmark point analysis, ISO-compliant face quality checks.  
-- **System Features:**  
+**System Features:**  
   - AI-powered automatic camera adjustments (pan, tilt, zoom).  
   - Facial landmark-based quality verification.  
   - User interface for real-time review and selection.  

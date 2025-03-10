@@ -24,6 +24,19 @@ The proposed **AI-Powered Rehabilitation Hand Exoskeleton** consists of the foll
 - The air pressure system actuates fingers for grasping.  
 - The accelerometer detects hand movement for object release.  
 
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; text-align: center;">
+  <div style="margin: 10px;">
+    <img src="assets/img/projects/vision_exoskeleton_large.png" alt="Image 1" style="width: 98%; min-width: 200px;">
+    <p><strong>Figure 1:</strong> AI-Powered Camera and Sensors for the Rehabilitation Hand Exoskeleton</p>
+  </div>
+  <!-- <div style="margin: 10px;">
+    <img src="image2.jpg" alt="Image 2" style="width: 48%; min-width: 200px;">
+    <p><strong>Figure 2:</strong> Description of Image 2</p>
+  </div> -->
+</div>
+
+
 **Results**  
 - **Processing Speed:** Runs EfficientDet at **6 FPS** on Coral Dev Board Mini.  
 - **Exoskeleton Operation:** Successfully grasped and released objects using air pressure control.  

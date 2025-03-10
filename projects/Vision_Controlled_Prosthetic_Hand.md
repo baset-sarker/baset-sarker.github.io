@@ -4,8 +4,6 @@
 <div style="text-align: justify;">
 This paper introduces a vision-enabled, sensorized prosthetic hand designed to replicate natural hand functions while ensuring accessibility and ease of use. Unlike conventional EMG-based prosthetic hands, this design integrates a camera, pressure sensors, an accelerometer, and a distance sensor to enhance object interaction. The system employs the Coral Dev Board Mini for real-time processing and EfficientDet for object detection. The prosthetic hand successfully performed grasping, lifting, and releasing actions with 90% accuracy in real-world tests.  
 </div>  
-<br/>
-
 **Project Description**  
 The proposed **Vision Controlled Sensorized Prosthetic Hand** consists of the following components:  
 - **Hardware:** 5MP camera, five force-sensitive resistors (FSRs), accelerometer (ADXL345), distance sensor (VL6180X), Coral Dev Board Mini, and SG90 servo motors.  
@@ -24,6 +22,20 @@ The proposed **Vision Controlled Sensorized Prosthetic Hand** consists of the fo
 - The motor controller actuates the fingers based on sensor feedback.  
 - Pressure sensors ensure safe and stable grasping.  
 - The accelerometer detects hand movement for releasing the object.  
+
+
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; text-align: center;">
+  <div style="margin: 10px;">
+    <img src="assets/img/projects/vision_hand.png" alt="Image 1" style="width: 98%; min-width: 200px;">
+    <p><strong>Figure 1:</strong> 3D design of Vision Controlled Sensorized Prosthetic Hand </p>
+  </div>
+  <!-- <div style="margin: 10px;">
+    <img src="image2.jpg" alt="Image 2" style="width: 48%; min-width: 200px;">
+    <p><strong>Figure 2:</strong> Description of Image 2</p>
+  </div> -->
+</div>
+
 
 **Results**  
 - **Prosthetic Hand Size:** 373mm total length, palm size 80mm x 86mm x 33.5mm.  
