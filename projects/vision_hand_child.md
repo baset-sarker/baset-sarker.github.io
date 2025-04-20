@@ -1,5 +1,5 @@
 #### A Vision-Enabled Prosthetic Hand for Children with Upper Limb Disabilities
-(Under review IEEE Xplore)
+(Under review IEEE Access)
 <!-- **Abstract**   -->
 <div style="text-align: justify;">
 
