@@ -53,7 +53,10 @@ The FPGA-based pediatric prosthetic hand demonstrates real-time, low-power opera
 - **Title:** A Vision-Enabled Prosthetic Hand for Children with Upper Limb Disabilities  
 - **Authors:** Md Abdul Baset Sarker, Art Nguyen, Sigmond Kukla, Kevin Fite, Masudul H. Imtiaz  
 - **Published in:** IEEE Access, 2025  (under review)
-- **Paper preview:** [https://arxiv.org/abs/2504.15654](https://arxiv.org/abs/2504.15654)  
+<!-- - **Paper preview:** [https://arxiv.org/abs/2504.15654](https://arxiv.org/abs/2504.15654)   -->
+- <strong>Paper preview:</strong> <a href="https://arxiv.org/abs/2504.15654" target="_blank">https://arxiv.org/abs/2504.15654</a>
+
+
 <!-- - **DOI:** [10.1109/ACCESS.2024.0429000](https://doi.org/10.1109/ACCESS.2024.0429000)   -->
 <!-- - **GitHub Repository:** *Coming Soon*   -->
 <!-- - **Video Demo:** [Watch Here](https://www.youtube.com/watch?v=yInMzl4Ef7A)   -->

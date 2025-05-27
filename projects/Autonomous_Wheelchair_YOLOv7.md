@@ -48,5 +48,8 @@ This research presents a low-cost, vision-based autonomous wheelchair system, le
 &nbsp;&nbsp;&nbsp; **Title:** Autonomous Movement of Wheelchair by Cameras and YOLOv7  
 &nbsp;&nbsp;&nbsp; **Authors:** Md Abdul Baset Sarker, Ernesto Sola-Thomas, Collin Jamieson, Masudul H. Imtiaz  
 &nbsp;&nbsp;&nbsp; **Published in:** *Engineering Proceedings* (2023), Volume 31, Article 60  
-&nbsp;&nbsp;&nbsp; **DOI:** [10.3390/ASEC2022-13834](https://doi.org/10.3390/ASEC2022-13834)  
-&nbsp;&nbsp;&nbsp; **Full Paper:** [Read Here](https://doi.org/10.3390/ASEC2022-13834)  
+<!-- &nbsp;&nbsp;&nbsp; **DOI:** [10.3390/ASEC2022-13834](https://doi.org/10.3390/ASEC2022-13834)  
+&nbsp;&nbsp;&nbsp; **Full Paper:** [Read Here](https://doi.org/10.3390/ASEC2022-13834)   -->
+&nbsp;&nbsp;&nbsp; <strong>DOI:</strong> <a href="https://doi.org/10.3390/ASEC2022-13834" target="_blank">10.3390/ASEC2022-13834</a><br>
+&nbsp;&nbsp;&nbsp; <strong>Full Paper:</strong> <a href="https://doi.org/10.3390/ASEC2022-13834" target="_blank">Read Here</a>
+

@@ -43,5 +43,8 @@ This study presents a pioneering AI-driven system for real-time microplastic det
 &nbsp;&nbsp;&nbsp; **Title:** Real-Time Detection of Microplastics Using an AI Camera  
 &nbsp;&nbsp;&nbsp; **Authors:** Md Abdul Baset Sarker, Masudul H. Imtiaz, Thomas M. Holsen, Abul B. M. Baki  
 &nbsp;&nbsp;&nbsp; **Published in:** *Sensors* (2024), Volume 24, Issue 4394  
-&nbsp;&nbsp;&nbsp; **DOI:** [10.3390/s24134394](https://doi.org/10.3390/s24134394)  
-&nbsp;&nbsp;&nbsp; **Full Paper:** [Read Here](https://doi.org/10.3390/s24134394)  
+<!-- &nbsp;&nbsp;&nbsp; **DOI:** [10.3390/s24134394](https://doi.org/10.3390/s24134394)  
+&nbsp;&nbsp;&nbsp; **Full Paper:** [Read Here](https://doi.org/10.3390/s24134394)   -->
+&nbsp;&nbsp;&nbsp; <strong>DOI:</strong> <a href="https://doi.org/10.3390/s24134394" target="_blank">10.3390/s24134394</a><br>
+&nbsp;&nbsp;&nbsp; <strong>Full Paper:</strong> <a href="https://doi.org/10.3390/s24134394" target="_blank">Read Here</a>
+

@@ -52,5 +52,8 @@ This vision-enabled rehabilitation exoskeleton introduces a novel, user-friendly
 &nbsp;&nbsp;&nbsp; **Title:** AI-Powered Camera and Sensors for the Rehabilitation Hand Exoskeleton  
 &nbsp;&nbsp;&nbsp; **Authors:** Md Abdul Baset Sarker, Juan Pablo Sola-Thomas, Masudul H. Imtiaz  
 &nbsp;&nbsp;&nbsp; **Published in:** *Preprints* (2024)  
-&nbsp;&nbsp;&nbsp; **DOI:** [10.20944/preprints202406.0677.v1](https://doi.org/10.20944/preprints202406.0677.v1)  
-&nbsp;&nbsp;&nbsp; **Full Paper:** [Read Here](https://doi.org/10.20944/preprints202406.0677.v1)  
+<!-- &nbsp;&nbsp;&nbsp; **DOI:** [10.20944/preprints202406.0677.v1](https://doi.org/10.20944/preprints202406.0677.v1)  
+&nbsp;&nbsp;&nbsp; **Full Paper:** [Read Here](https://doi.org/10.20944/preprints202406.0677.v1)   -->
+&nbsp;&nbsp;&nbsp; <strong>DOI:</strong> <a href="https://doi.org/10.20944/preprints202406.0677.v1" target="_blank">10.20944/preprints202406.0677.v1</a><br>
+&nbsp;&nbsp;&nbsp; <strong>Full Paper:</strong> <a href="https://doi.org/10.20944/preprints202406.0677.v1" target="_blank">Read Here</a>
+

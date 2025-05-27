@@ -53,5 +53,8 @@ This study presents a vision-based prosthetic hand that eliminates the need for 
 &nbsp;&nbsp;&nbsp; **Title:** Vision Controlled Sensorized Prosthetic Hand  
 &nbsp;&nbsp;&nbsp; **Authors:** Md Abdul Baset Sarker, Juan Pablo S. Sola, Aaron Jones, Evan Laing, Ernesto Sola-Thomas, Masudul H. Imtiaz  
 &nbsp;&nbsp;&nbsp; **Published in:** Interdisciplinary Conference on Mechanics, Computers and Electronics (ICMECE) 2022 
-&nbsp;&nbsp;&nbsp; **GitHub Repository:** [Vision-Enabled Prosthetic Hand](https://github.com/baset-sarker/vision_enabled_prosthetic_hand)  
-&nbsp;&nbsp;&nbsp; **Full Paper:** [Read Here](https://arxiv.org/abs/2407.12807v2)  
+<!-- &nbsp;&nbsp;&nbsp; **GitHub Repository:** [Vision-Enabled Prosthetic Hand](https://github.com/baset-sarker/vision_enabled_prosthetic_hand)  
+&nbsp;&nbsp;&nbsp; **Full Paper:** [Read Here](https://arxiv.org/abs/2407.12807v2)   -->
+&nbsp;&nbsp;&nbsp; <strong>GitHub Repository:</strong> <a href="https://github.com/baset-sarker/vision_enabled_prosthetic_hand" target="_blank">Vision-Enabled Prosthetic Hand</a><br>
+&nbsp;&nbsp;&nbsp; <strong>Full Paper:</strong> <a href="https://arxiv.org/abs/2407.12807v2" target="_blank">Read Here</a>
+

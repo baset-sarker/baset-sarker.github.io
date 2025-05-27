@@ -38,4 +38,6 @@ This research presents an autonomous navigation system that eliminates the need 
 **Paper Details**  
 &nbsp;&nbsp;&nbsp; **Title:** Autonomous Navigation System from Simultaneous Localization and Mapping  
 &nbsp;&nbsp;&nbsp; **Authors:** Micheal Caracciolo, Owen Casciotti, Christopher Lloyd, Ernesto Sola-Thomas, Matthew Weaver, Kyle Bielby, Md Abdul Baset Sarker, Masudul H. Imtiaz  
-&nbsp;&nbsp;&nbsp; **Full Paper:** [Read Here](https://arxiv.org/abs/2112.07723v1)  
+<!-- &nbsp;&nbsp;&nbsp; **Full Paper:** [Read Here](https://arxiv.org/abs/2112.07723v1)   -->
+&nbsp;&nbsp;&nbsp; <strong>Full Paper:</strong> <a href="https://arxiv.org/abs/2112.07723v1" target="_blank">Read Here</a>
+

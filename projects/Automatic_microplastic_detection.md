@@ -38,5 +38,8 @@ This research presents an AI-powered, real-time microplastic detection system ca
 &nbsp;&nbsp;&nbsp; **Title:** Automatic Detection of Microplastics in the Aqueous Environment  
 &nbsp;&nbsp;&nbsp; **Authors:** Md Abdul Baset Sarker, Masudul H. Imtiaz, Thomas M. Holsen, Abul B. M. Baki  
 &nbsp;&nbsp;&nbsp; **Published in:** *2023 IEEE 13th Annual Computing and Communication Workshop and Conference (CCWC), Las Vegas, NV, USA, 2023, pp. 0768-0772*  
-&nbsp;&nbsp;&nbsp; **DOI:** [doi: 10.1109/CCWC57344.2023.10099253] (https://doi.org/10.1109/CCWC57344.2023.10099253). 
-&nbsp;&nbsp;&nbsp; **Full Paper:** [Read Here](https://ieeexplore.ieee.org/abstract/document/10099253)  
+<!-- &nbsp;&nbsp;&nbsp; **DOI:** [doi: 10.1109/CCWC57344.2023.10099253] (https://doi.org/10.1109/CCWC57344.2023.10099253). 
+&nbsp;&nbsp;&nbsp; **Full Paper:** [Read Here](https://ieeexplore.ieee.org/abstract/document/10099253)   -->
+&nbsp;&nbsp;&nbsp; <strong>DOI:</strong> <a href="https://doi.org/10.1109/CCWC57344.2023.10099253" target="_blank">doi: 10.1109/CCWC57344.2023.10099253</a><br>
+&nbsp;&nbsp;&nbsp; <strong>Full Paper:</strong> <a href="https://ieeexplore.ieee.org/abstract/document/10099253" target="_blank">Read Here</a>
+

@@ -51,4 +51,6 @@ This research presents a cost-effective, **Raspberry Pi-based home automation sy
 &nbsp;&nbsp;&nbsp; **Title:** Development of a Raspberry Pi-Based Home Automation System  
 &nbsp;&nbsp;&nbsp; **Authors:** Md Abdul Baset Sarker, Masudul Haider Imtiaz, Mohammad Al-Mamun  
 &nbsp;&nbsp;&nbsp; **Published in:** *Bangladesh Journal of Physics* (2014), Volume 16, Pages 59-66  
-&nbsp;&nbsp;&nbsp; **Full Paper:** [Read Here](https://www.researchgate.net/publication/336148026)  
+<!-- &nbsp;&nbsp;&nbsp; **Full Paper:** [Read Here](https://www.researchgate.net/publication/336148026)   -->
+&nbsp;&nbsp;&nbsp; <strong>Full Paper:</strong> <a href="https://www.researchgate.net/publication/336148026" target="_blank">Read Here</a>
+

@@ -48,6 +48,10 @@ This research introduces an efficient and secure face-aware capture system that 
 &nbsp;&nbsp;&nbsp; **Title:** An Open-Source Face-Aware Capture System  
 &nbsp;&nbsp;&nbsp; **Authors:** Md Abdul Baset Sarker, S. M. Safayet Hossain, Naveenkumar G. Venkataswamy, Stephanie Schuckers, Masudul H. Imtiaz  
 &nbsp;&nbsp;&nbsp; **Published in:** *Electronics* (2024), Volume 13, Issue 1178  
-&nbsp;&nbsp;&nbsp; **DOI:** [10.3390/electronics13071178](https://doi.org/10.3390/electronics13071178)  
+<!-- &nbsp;&nbsp;&nbsp; **DOI:** [10.3390/electronics13071178](https://doi.org/10.3390/electronics13071178)  
 &nbsp;&nbsp;&nbsp; **GitHub Repository:** [Face-Aware Capture System](https://github.com/baset-sarker/face-aware-capture)  
-&nbsp;&nbsp;&nbsp; **Full Paper:** [Read Here](https://doi.org/10.3390/electronics13071178)  
+&nbsp;&nbsp;&nbsp; **Full Paper:** [Read Here](https://doi.org/10.3390/electronics13071178)   -->
+&nbsp;&nbsp;&nbsp; <strong>DOI:</strong> <a href="https://doi.org/10.3390/electronics13071178" target="_blank">10.3390/electronics13071178</a><br>
+&nbsp;&nbsp;&nbsp; <strong>GitHub Repository:</strong> <a href="https://github.com/baset-sarker/face-aware-capture" target="_blank">Face-Aware Capture System</a><br>
+&nbsp;&nbsp;&nbsp; <strong>Full Paper:</strong> <a href="https://doi.org/10.3390/electronics13071178" target="_blank">Read Here</a>
+
