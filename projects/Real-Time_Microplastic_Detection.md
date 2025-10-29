@@ -22,10 +22,10 @@ The proposed **AI-Powered Microplastic Detection System** consists of the follow
     <img src="assets/img/projects/microplastic_detection.png" alt="Image 1" style="width: 98%; min-width: 200px;">
     <p><strong>Figure 1:</strong> Experimental setup</p>
   </div>
-  <!-- <div style="margin: 10px;">
-    <img src="image2.jpg" alt="Image 2" style="width: 48%; min-width: 200px;">
-    <p><strong>Figure 2:</strong> Description of Image 2</p>
-  </div> -->
+  <div style="margin: 10px;">
+    <img src="assets/img/projects/mp_tracking_working.png" alt="Image 2" style="width: 80%; min-width: 200px;">
+    <p><strong>Figure 2:</strong> How it works</p>
+  </div>
 </div>
 
 
