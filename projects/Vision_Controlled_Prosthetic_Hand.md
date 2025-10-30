@@ -31,8 +31,8 @@ The proposed **Vision Controlled Sensorized Prosthetic Hand** consists of the fo
     <p><strong>Figure 1:</strong> 3D design of Vision Controlled Sensorized Prosthetic Hand </p>
   </div>
   <!-- <div style="margin: 10px;">
-    <img src="image2.jpg" alt="Image 2" style="width: 48%; min-width: 200px;">
-    <p><strong>Figure 2:</strong> Description of Image 2</p>
+    <img src="assets/img/projects/pick_and_place.gif" alt="Image 2" style="width: 48%; min-width: 200px;">
+    <p><strong>Figure 2:</strong> An example of box and block test</p>
   </div> -->
 </div>
 
